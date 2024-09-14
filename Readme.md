@@ -8,7 +8,7 @@ git add .                         --> adding file<br>
 git commit -m "comment"           -->commit all files(green)<br>
 git status                        -->checking commited file<br>
 git  push -u origin main          -->pushing to remote repo(next push--> git push)<br>
-git checkout <branch-name>        -->to create new branch<br>
+git checkout -b <branch-name>        -->to create new branch<br>
 git branch -d <branch-name>       -->to delete branch<br>
 
 
