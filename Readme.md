@@ -1,3 +1,4 @@
+<h1>Commands</h1>
 git init                          --> initialization<br>
 git remote add origin <url>       --> connect repo with vscode<br>
 git remote -v                     -->verify remote<br>
