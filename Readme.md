@@ -13,5 +13,4 @@ git branch -d <branch-name>       -->to delete branch<br>
 
 
 
-
 git clone <url>                   -->copying  repo<br>
